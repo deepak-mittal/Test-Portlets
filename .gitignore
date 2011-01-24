@@ -1,0 +1,13 @@
+target
+*.ipr
+*.iws
+*.iml
+stacktrace.log
+prodDb.log
+prodDb.properties
+prodDb.script
+web-app/WEB-INF/liferay-display.xml
+web-app/WEB-INF/liferay-plugin-package.properties
+web-app/WEB-INF/liferay-portlet.xml
+web-app/WEB-INF/portlet.xml
+

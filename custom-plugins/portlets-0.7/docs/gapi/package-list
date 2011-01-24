@@ -1,0 +1,9 @@
+DefaultPackage
+grails-app.conf
+scripts
+src.java.org.codehaus.grails.portlets
+src.java.org.codehaus.grails.portlets.container
+src.templates.scripts
+target.grails_work.plugins.hibernate-1.1.1
+target.grails_work.plugins.hibernate-1.1.1.scripts
+web-app.WEB-INF
